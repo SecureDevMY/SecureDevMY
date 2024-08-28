@@ -23,8 +23,7 @@ My expertise spans a variety of domains, including DevSecOps, cloud security, an
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Frameworks:** Flask, Laravel, Bootstrap, NodeJS
 
-## Certifications
-- ## 🏆 Certifications
+## 🏆 Certifications
 
 - **Certified in Cybersecurity (CC)**  
   [![Certified in Cybersecurity (CC) from ISC2](https://images.credly.com/size/60x60/images/2030e43f-8003-4d4b-9630-847add403c87/image.png)](https://www.credly.com/badges/b3c6d1bf-0c72-44a2-9b94-8d032166878a)
