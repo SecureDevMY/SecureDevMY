@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-securedevmy-blue)](https://www.linkedin.com/in/securedevmy/)
 [![GitHub](https://img.shields.io/badge/GitHub-SecureDevMY-lightgrey)](https://github.com/SecureDevMY)
 [![Email](https://img.shields.io/badge/Email-a.hadi.a.halim@gmail.com-red)](mailto:a.hadi.a.halim@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-Profile-green)](https://www.credly.com/users/securedevmy)
 
 ## 🛡️ About Me
 
