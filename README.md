@@ -16,11 +16,11 @@ My expertise spans a variety of domains, including DevSecOps, cloud security, an
 
 ## 💼 Skills
 
-- **Programming Languages:** Python, PHP, JavaScript, HTML, VB.NET
+- **Programming Languages:** Python, PHP, JavaScript, HTML, VB.NET, Flutter (Dart)
 - **Cybersecurity:** Penetration Testing, Network Security, Vulnerability Management, Secure Coding Practices
 - **DevSecOps:** Jenkins, GitHub, SonarQube, OWASP Dependency Check, Trivy, Docker, Kubernetes, Prometheus, Grafana
 - **Cloud Platforms:** AWS (EC2, S3, Lambda), Azure, Google Cloud
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
 - **Frameworks:** Flask, Laravel, Bootstrap, NodeJS
 
 ## 🏆 Certifications
@@ -70,7 +70,7 @@ I'm always open to discussing new opportunities, projects, and collaborations.
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/securedevmy/) or [email](mailto:a.hadi.a.halim@gmail.com).
 
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025/2026
 
 - Obtain AWS Certified Security Specialty
 - Contribute to open-source security projects
