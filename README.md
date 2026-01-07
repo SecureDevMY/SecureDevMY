@@ -7,21 +7,16 @@
 
 ## 🛡️ About Me
 
-Hello! I'm Hadi, a passionate cybersecurity professional and software developer with a strong background in securing systems and optimizing processes. 
-My goal is to leverage cutting-edge cybersecurity techniques and programming to revolutionize industries, improve security outcomes, and drive innovation in technology.
-
-I have a proven track record of implementing secure solutions that meet organizational goals while maintaining integrity and fostering collaboration. 
-My expertise spans a variety of domains, including DevSecOps, cloud security, and software development.
-
+Hello! I'm Hadi, a passionate software engineer with over 10 years of hands-on experience delivering production systems across enterprise desktop, backend, and mobile platforms. Strong foundation in Linux-based operations, system integration, and production support, combined with modern Flutter cross-platform development and legacy .NET (VB.NET / C#) systems.
+Experienced in building, deploying, and supporting business-critical applications integrated with databases, APIs, and external systems. Comfortable operating across the full lifecycle — from architecture and development to deployment, troubleshooting, and day-to-day operations. 
 
 ## 💼 Skills
 
-- **Programming Languages:** Python, PHP, JavaScript, HTML, VB.NET, Flutter (Dart)
-- **Cybersecurity:** Penetration Testing, Network Security, Vulnerability Management, Secure Coding Practices
-- **DevSecOps:** Jenkins, GitHub, SonarQube, OWASP Dependency Check, Trivy, Docker, Kubernetes, Prometheus, Grafana
-- **Cloud Platforms:** AWS (EC2, S3, Lambda), Azure, Google Cloud
-- **Databases:** MySQL, PostgreSQL, MongoDB, Firebase
-- **Frameworks:** Flask, Laravel, Bootstrap, NodeJS
+- **Programming Languages:** VB.NET, C#, Dart (Flutter)
+- **Systems & Platforms:** Linux, Windows Server & Desktop environments, Application deployment & production support
+- **APIs & Integration:** RESTful APIs, JSON & XML, ERP and third-party system integrations
+- **Databases:** SQL Server, SQLite, ADO.NET, Firebase
+- **Tools & Practices:** Visual Studio, VS Code, Git, GitHub, CI/CD pipelines, Agile / Scrum, Technical documentation & SOP development
 
 ## 🏆 Certifications
 
